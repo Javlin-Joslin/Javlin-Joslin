@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Javlin-Joslin
-- I'm a hobbiest Godot Game dev / Youtuber
+- I'm a hobbiest Godot Game dev
 - You can find my youtube channel at https://www.youtube.com/channel/UCu4O0oqI8WEO071m7eMz-Ng, here I have tutorials and (eventually) devlogs.
 - you can reach me at joslinstudio@gmail.com
 
